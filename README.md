@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Marvy247
-- 👀 I’m interested in Web3 and Blockchain Development...
-- 🌱 I’m currently learning Fullstack Web Development...
-- 💞️ I’m looking to collaborate on Open, Meaningful and Challenging Projects...
-- 📫 How to reach me... MarvellousDVD@Gmail.Com
-- ⚡ Fun fact: ...I Play Chess And Love Video Games
+👋 Hi there, I’m @Marvy247
 
-<!---
-Marvy247/Marvy247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Passionate about Decentralization and Blockchain Development
+
+🌍 Open Source Contributor | Constant Learner | Web3 Enthusiast
+
+💼 Exploring smart contracts, DeFi protocols, and decentralized governance
+
+♟️ Fun fact: I play chess and enjoy diving into story-driven video games
+
+📬 Reach me at: MarvellousDVD@gmail.com
