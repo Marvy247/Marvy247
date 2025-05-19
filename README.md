@@ -1,4 +1,4 @@
-👋 Hi there, I’m @Marvy247
+👋 Hi there, I’m Marvy.
 
 🛠️ Passionate about Decentralization and Blockchain Development
 
@@ -6,6 +6,6 @@
 
 💼 Exploring smart contracts, DeFi protocols, and decentralized governance
 
-♟️ Fun fact: I play chess and enjoy diving into story-driven video games
+🎮 Fun: When I'm not writing or reading code, I'm on my Playstation Console.
 
-📬 Reach me at: MarvellousDVD@gmail.com
+📬 Reach me at: marvellousdvd@gmail.com
