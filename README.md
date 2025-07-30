@@ -1,11 +1,11 @@
-👋 Hi there, I’m Marvy.
+# 👋 Hi there, 
 
-🛠️ Passionate about Decentralization and Blockchain Development
+I'm just a ~~Blockchain Engineer~~ Dude. 
 
-🌍 Open Source Contributor | Constant Learner | Web3 Enthusiast
+- Who Believes In Rough Concensus  
+- And Open-Source Sovereignty!
 
-💼 Exploring smart contracts, DeFi protocols, and decentralized governance
+**THE CODE IS LAW.**
 
-🎮 Fun: When I'm not writing or reading code, I'm on my Playstation Console.
-
-📬 Reach me at: marvellousdvd@gmail.com
+marvellousdvd@gmail.cm
+  
