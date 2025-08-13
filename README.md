@@ -7,5 +7,5 @@ I'm just a ~~Blockchain Engineer~~ Dude.
 
 **THE CODE IS LAW.**
 
-marvellousdvd@gmail.cm
+marvellousdvd@gmail.com
   
