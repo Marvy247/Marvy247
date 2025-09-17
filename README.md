@@ -1,6 +1,6 @@
 # 👋 Hi there, 
 
-I'm just a ~~Blockchain Engineer~~ Dude. 
+I'm just a ~~Blockchain Engineer~~ dude. 
 
 - Who Believes In Rough Concensus  
 - And Open-Source Sovereignty!
